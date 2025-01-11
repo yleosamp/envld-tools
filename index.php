@@ -114,6 +114,13 @@
                     'descricao' => 'Projeto feito para encontrar jogos apenas com uma barra de pesquisa.',
                     'imagem' => './gamepad.png',
                     'link' => 'https://games.envld.com'
+                ],
+                [
+                    'titulo' => '3D Converter',
+                    'descricao' => 'Esse site converter arquivos 3D GLB ou FBX para OBJ.',
+                    'imagem' => './3dconverter.png',
+                    'link' => 'https://converter.envld.com'
+
                 ]
             ];
 
